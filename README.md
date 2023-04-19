@@ -1,9 +1,13 @@
 
-#PRESTA WORKFLOW AUTOMATOR API
+PRESTA WORKFLOW AUTOMATOR API
 --------------------------
 
 INTRODUCTION
 -------------
+
+This API Has Two Microservices. 
+The main microservice is Workflow-Automator and listens on port 8081
+The ApprovalInitiator which listens on port 8090 Microservice Receives Approral responses when an Approval is made from
 
 This API is built based on the technical question No. 1 whose problem statement is to implement 
 a solution that manages Approval Work Flows in a Maker-Checker set up.
