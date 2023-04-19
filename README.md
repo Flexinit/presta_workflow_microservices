@@ -48,7 +48,7 @@ The System has the following functionaliy
 
 
 
-To Run the APplication
+To Run the Application
 -----------------------
 1. First Create Document Types 
 2. Create Approvers
