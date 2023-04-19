@@ -1,5 +1,5 @@
 
-PRESTA WORKFLOW AUTOMATOR API
+PRESTA CAPITAL WORKFLOW AUTOMATOR API
 --------------------------
 
 INTRODUCTION
@@ -12,8 +12,11 @@ The ApprovalInitiator which listens on port 8090 Microservice Receives Approral 
 This API is built based on the technical question No. 1 whose problem statement is to implement 
 a solution that manages Approval Work Flows in a Maker-Checker set up.
 
+
+
 Technologies and Frameworks used in building the Software are:
 ---------------------------------------------------------------
+
 1. Java Spring Boot - Well organised into controllers, entity, repositories with separation of concerns in the code. This makes
 the code easily readable, debuggable and maintainable.
  - Moreover there is effective creation and destruction of objects in the Spring Boot Framework through Dependency Injection.
